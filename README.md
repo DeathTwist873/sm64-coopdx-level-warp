@@ -1,8 +1,8 @@
 # sm64-coopdx-level-warp
 A Lua script mod for SM64 CoopDX that enables multiplayer peer-to-peer level warping and verified game-state stability.
   
-  
-  --Main 15 courses
+```
+  ---Main 15 courses
 bob = 9,    wf  = 24,   ccm = 5,
 jrb = 12,   bbh = 4,    lll = 22,
 ssl = 8,    hmc = 7,    ddd = 23,
@@ -24,8 +24,7 @@ basement = { level = 6, area = 0 },
 f1       = { level = 6, area = 1 },
 f2       = { level = 6, area = 2 },
 f3       = { level = 6, area = 3 },
-
- 
+```
  How to Use
 This mod registers two custom chat commands inside the game to allow instant warping.
 @ 1. The /warp Command
