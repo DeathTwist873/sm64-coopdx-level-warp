@@ -28,7 +28,9 @@ f3       = { level = 6, area = 3 },
  How to Use
 
 This mod registers two custom chat commands inside the game to allow instant warping.
-@ 1. The /warp Command
+
+1. The /warp Command
+
 Use this command to instantly teleport your character. If you do not specify an act or area, they default to 1.
 Command Syntax: /warp [LevelName_or_ID] [Act_Number] [Area_Number]
 
